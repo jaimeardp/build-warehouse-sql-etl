@@ -1,0 +1,4 @@
+HOSTNAME = "192.168.1.13"
+USERNAME = "academy"
+PASSWORD="acadey"
+PORT=5455
